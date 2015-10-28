@@ -1,0 +1,1 @@
+  * Graphic - dispatch a STATE\_CHANGE event
